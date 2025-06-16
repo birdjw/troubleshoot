@@ -1,0 +1,32 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# VSCode settings (optional)
+.vscode/
+
+# Jupyter Notebook checkpoints (if you ever use notebooks)
+.ipynb_checkpoints/
+
+# macOS/Linux/Windows system files
+.DS_Store
+Thumbs.db
+
+# Log and local config files
+*.log
+*.sqlite3
+*.db
+
+# Environment variable files
+.env.local
+.env.*
